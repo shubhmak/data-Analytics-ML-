@@ -10,4 +10,4 @@ Decision Tree             0.8672438672438673
 Logistic Regression             0.8672438672438673
 Random Forest             0.9163059163059163
 
-As randomForest gets the hieghest accuracy score, it is fine-tuned in the end , and exported as a file.
+As randomForest gets the hieghest accuracy score, it is fine-tuned in the end , and  the trained model is exported as a file.
